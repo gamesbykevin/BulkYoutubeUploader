@@ -2,9 +2,9 @@
 This project will allow you to upload videos to Youtube in bulk
 
 This project will upload videos to youtube one at a time. Each video uploaded will be marked private with a future publish date. 
-Each video will have a publish date of the next day. Example: 1st video 7/4/18, 2nd video 7/5/18, 3rd video 7/6/18, etc...
-Youtube only allows 100 videos per day to be uploaded. 
-If you are uploading more the program will error after 100 videos with the message that you exceeded your daily limit.
+The publish date will add 1 day per each video uploaded. Example: 1st video Jul 4th 2018, 2nd video July 5th 2018, etc...
+Youtube allows only 100 videos per day to be uploaded. 
+If you exceed the limit the app will crash with the message that you exceeded your daily limit. You won't be banned only 100 videos will be uploaded and you have to wait 24 hours.
 
 Pre-requisites
 
