@@ -12,8 +12,8 @@ Pre-requisites
 
 2) There are a few nodeJS dependencies this project uses to which you can easily install using "npm install <dependency name here>"
 
-3) In order to upload videos to Youtube you will need to use oAuth. Save your client id & secret
-   Instructions here to create your credentials (https://developers.google.com/identity/protocols/OAuth2)
+3) In order to upload videos to Youtube you will need to use oAuth. When you create your credentials save your "client id" & "secret" as it will be needed to authenticate
+   Instructions to create your oAuth credentials (https://developers.google.com/identity/protocols/OAuth2)
    
 
 Instructions
